@@ -33,11 +33,11 @@
 
 **Giao diện chính:**
 
-![Giao diện chính Bài 1](.screenshots/bai1_main.png.png)
+![Giao diện chính Bài 1](screenshots/bai1_main.png.png)
 
 **Kiểm tra dữ liệu không hợp lệ:**
 
-![Validation Bài 1](.screenshots/bai1_error.png.png)
+![Validation Bài 1](screenshots/bai1_error.png.png)
 
 ---
 
@@ -50,11 +50,11 @@
 
 **Giao diện quản lý sách:**
 
-![Giao diện chính Bài 2](.screenshots/bai2_main.png.png)
+![Giao diện chính Bài 2](screenshots/bai2_main.png.png)
 
 **Minh họa đọc hoặc xuất CSV:**
 
-![Chức năng CSV Bài 2](.screenshots/bai2_csv.png.png)
+![Chức năng CSV Bài 2](screenshots/bai2_csv.png.png)
 
 ---
 
@@ -68,11 +68,11 @@
 
 **Giao diện MDI:**
 
-![Giao diện MDI Bài 3](.screenshots/bai3_mdi.png.png)
+![Giao diện MDI Bài 3](screenshots/bai3_mdi.png.png)
 
 **Minh họa xử lý bất đồng bộ:**
 
-![Async/Await Bài 3](.screenshots/bai3_async.png.png)
+![Async/Await Bài 3](screenshots/bai3_async.png.png)
 
 ---
 
@@ -86,13 +86,13 @@
 
 **Giao diện thống kê doanh thu:**
 
-![Giao diện doanh thu Bài 4](.screenshots/bai4_main.png.png)
+![Giao diện doanh thu Bài 4](screenshots/bai4_main.png.png)
 
 **Minh họa xử lý bất đồng bộ và hủy tác vụ:**
 
-![Async và Cancel Bài 4](.screenshots/bai4_async.png.png)
-![Async và Cancel Bài 4](.screenshots/bai4_async_run.png.png)
-![Async và Cancel Bài 4](.screenshots/bai4_async_cancel.png.png)
+![Async và Cancel Bài 4](screenshots/bai4_async.png.png)
+![Async và Cancel Bài 4](screenshots/bai4_async_run.png.png)
+![Async và Cancel Bài 4](screenshots/bai4_async_cancel.png.png)
 
 ---
 
@@ -107,15 +107,15 @@
 
 **Giao diện giám sát tỷ giá:**
 
-![Giao diện giám sát Bài 5](.screenshots/bai5_main.png.png)
+![Giao diện giám sát Bài 5](screenshots/bai5_main.png.png)
 
 **Lịch sử biến động giá:**
 
-![Lịch sử giá Bài 5](.screenshots/bai5_history.png.png)
+![Lịch sử giá Bài 5](screenshots/bai5_history.png.png)
 
 **Minh họa thay đổi màu giá:**
 
-![Thay đổi màu giá Bài 5](.screenshots/bai5_price_change.png.png)
+![Thay đổi màu giá Bài 5](screenshots/bai5_price_change.png.png)
 
 ---
 
@@ -125,18 +125,18 @@
 LTNET_24810320204_LeTuanAnh/
 ├── .gitignore
 ├── README.md
-├── docs/
-│   ├── bai1_main.png
-│   ├── bai1_error.png
-│   ├── bai2_main.png
-│   ├── bai2_csv.png
-│   ├── bai3_mdi.png
-│   ├── bai3_async.gif
-│   ├── bai4_main.png
-│   ├── bai4_async_cancel.png
-│   ├── bai5_main.png
-│   ├── bai5_history.png
-│   └── bai5_price_change.png
+├── screenshots
+│   ├── bai1_main.png.png
+│   ├── bai1_error.png.png
+│   ├── bai2_main.png.png
+│   ├── bai2_csv.png.png
+│   ├── bai3_mdi.png.png
+│   ├── bai3_async.png.png
+│   ├── bai4_main.png.png
+│   ├── bai4_async_cancel.png.png
+│   ├── bai5_main.png.png
+│   ├── bai5_history.png.png
+│   └── bai5_price_change.png.png
 └── src/
     └── WinFormsAppSolution.sln
 ```
