@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leduc\\source\\repos\\bt2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{753B3CB7-6253-4B3F-B97B-439C3C5F1A61}|bt2\\bt2.csproj|c:\\users\\leduc\\source\\repos\\bt2\\bt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{753B3CB7-6253-4B3F-B97B-439C3C5F1A61}|bt2\\bt2.csproj|solutionrelative:bt2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduc\\source\\repos\\baitap2\\baitap2\\frmBookManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduc\\source\\repos\\baitap2\\baitap2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753B3CB7-6253-4B3F-B97B-439C3C5F1A61}|bt2\\bt2.csproj|c:\\users\\leduc\\source\\repos\\bt2\\bt2\\frmbookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753B3CB7-6253-4B3F-B97B-439C3C5F1A61}|bt2\\bt2.csproj|solutionrelative:bt2\\frmbookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753B3CB7-6253-4B3F-B97B-439C3C5F1A61}|bt2\\bt2.csproj|c:\\users\\leduc\\source\\repos\\bt2\\bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753B3CB7-6253-4B3F-B97B-439C3C5F1A61}|bt2\\bt2.csproj|solutionrelative:bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1057371849:0:{66ccb258-66db-43d5-b3af-beeba42f32ec}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\bt2\\bt2\\Program.cs",
+              "RelativeDocumentMoniker": "bt2\\Program.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\bt2\\bt2\\Program.cs",
+              "RelativeToolTip": "bt2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:24:03.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\bt2\\bt2\\frmBookManager.cs",
+              "RelativeDocumentMoniker": "bt2\\frmBookManager.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\bt2\\bt2\\frmBookManager.cs",
+              "RelativeToolTip": "bt2\\frmBookManager.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:24:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\baitap2\\baitap2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\baitap2\\baitap2\\Program.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\baitap2\\baitap2\\Program.cs",
+              "RelativeToolTip": "..\\baitap2\\baitap2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:12:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\baitap2\\baitap2\\frmBookManager.cs",
+              "RelativeDocumentMoniker": "..\\baitap2\\baitap2\\frmBookManager.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\baitap2\\baitap2\\frmBookManager.cs",
+              "RelativeToolTip": "..\\baitap2\\baitap2\\frmBookManager.cs",
+              "ViewState": "AgIAAPsBAAAAAAAAAABBwJ8CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:12:02.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\bt2\\bt2\\Form1.cs",
+              "RelativeDocumentMoniker": "bt2\\Form1.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\bt2\\bt2\\Form1.cs [Design]",
+              "RelativeToolTip": "bt2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:07:28.023Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

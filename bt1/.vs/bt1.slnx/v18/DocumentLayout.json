@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leduc\\source\\repos\\bt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|c:\\users\\leduc\\source\\repos\\bt1\\bt1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|solutionrelative:bt1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|c:\\users\\leduc\\source\\repos\\bt1\\bt1\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|solutionrelative:bt1\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|c:\\users\\leduc\\source\\repos\\bt1\\bt1\\frmgymmembermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|solutionrelative:bt1\\frmgymmembermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|c:\\users\\leduc\\source\\repos\\bt1\\bt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25D34F1-9004-4F3E-B188-A0A962C45D27}|bt1\\bt1.csproj|solutionrelative:bt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1057371849:0:{66ccb258-66db-43d5-b3af-beeba42f32ec}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\Program.cs",
+              "RelativeDocumentMoniker": "bt1\\Program.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\Program.cs",
+              "RelativeToolTip": "bt1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:45:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGymMemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\frmGymMemberManager.cs",
+              "RelativeDocumentMoniker": "bt1\\frmGymMemberManager.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\frmGymMemberManager.cs",
+              "RelativeToolTip": "bt1\\frmGymMemberManager.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAABBwOEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:44:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberModel.cs",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\MemberModel.cs",
+              "RelativeDocumentMoniker": "bt1\\MemberModel.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\MemberModel.cs",
+              "RelativeToolTip": "bt1\\MemberModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:43:45.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\Form1.cs",
+              "RelativeDocumentMoniker": "bt1\\Form1.cs",
+              "ToolTip": "C:\\Users\\leduc\\source\\repos\\bt1\\bt1\\Form1.cs [Design]",
+              "RelativeToolTip": "bt1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:06:52.322Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
