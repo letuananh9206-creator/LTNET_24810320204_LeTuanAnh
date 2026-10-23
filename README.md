@@ -33,11 +33,11 @@
 
 **Giao diện chính:**
 
-![Giao diện chính Bài 1](docs/bai1_main.png)
+![Giao diện chính Bài 1](.screenshots/bai1_main.png)
 
 **Kiểm tra dữ liệu không hợp lệ:**
 
-![Validation Bài 1](docs/bai1_error.png)
+![Validation Bài 1](.screenshots/bai1_error.png)
 
 ---
 
@@ -50,11 +50,11 @@
 
 **Giao diện quản lý sách:**
 
-![Giao diện chính Bài 2](docs/bai2_main.png)
+![Giao diện chính Bài 2](.screenshots/bai2_main.png)
 
 **Minh họa đọc hoặc xuất CSV:**
 
-![Chức năng CSV Bài 2](docs/bai2_csv.png)
+![Chức năng CSV Bài 2](.screenshots/bai2_csv.png)
 
 ---
 
@@ -68,11 +68,11 @@
 
 **Giao diện MDI:**
 
-![Giao diện MDI Bài 3](docs/bai3_mdi.png)
+![Giao diện MDI Bài 3](.screenshots/bai3_mdi.png)
 
 **Minh họa xử lý bất đồng bộ:**
 
-![Async/Await Bài 3](docs/bai3_async.gif)
+![Async/Await Bài 3](.screenshots/bai3_async.gif)
 
 ---
 
@@ -86,13 +86,13 @@
 
 **Giao diện thống kê doanh thu:**
 
-![Giao diện doanh thu Bài 4](docs/bai4_main.png)
+![Giao diện doanh thu Bài 4](.screenshots/bai4_main.png)
 
 **Minh họa xử lý bất đồng bộ và hủy tác vụ:**
 
-![Async và Cancel Bài 4](docs/bai4_async.png)
-![Async và Cancel Bài 4](docs/bai4_async_run.png)
-![Async và Cancel Bài 4](docs/bai4_async_cancel.png)
+![Async và Cancel Bài 4](.screenshots/bai4_async.png)
+![Async và Cancel Bài 4](.screenshots/bai4_async_run.png)
+![Async và Cancel Bài 4](.screenshots/bai4_async_cancel.png)
 
 ---
 
@@ -107,15 +107,15 @@
 
 **Giao diện giám sát tỷ giá:**
 
-![Giao diện giám sát Bài 5](docs/bai5_main.png)
+![Giao diện giám sát Bài 5](.screenshots/bai5_main.png)
 
 **Lịch sử biến động giá:**
 
-![Lịch sử giá Bài 5](docs/bai5_history.png)
+![Lịch sử giá Bài 5](.screenshots/bai5_history.png)
 
 **Minh họa thay đổi màu giá:**
 
-![Thay đổi màu giá Bài 5](docs/bai5_price_change.png)
+![Thay đổi màu giá Bài 5](.screenshots/bai5_price_change.png)
 
 ---
 
