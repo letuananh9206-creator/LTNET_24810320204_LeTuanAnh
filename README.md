@@ -14,11 +14,11 @@
 
 | Bài tập | Tên bài tập | Trạng thái | Mức độ hoàn thành |
 |:---:|---|:---:|:---:|
-| Bài 1 | Quản lý dịch vụ phòng Gym và hội viên | Đã thực hiện | Theo kết quả thực tế |
-| Bài 2 | Quản lý và xuất báo cáo nhà sách | Đã thực hiện | Theo kết quả thực tế |
-| Bài 3 | Hệ thống MDI quản lý bệnh viện và xử lý Async/Await | Đã thực hiện | Theo kết quả thực tế |
-| Bài 4 | Bảng điều khiển thống kê doanh thu đa luồng | Đã thực hiện | Theo kết quả thực tế |
-| Bài 5 | Mô phỏng giám sát tỷ giá tài chính thời gian thực | Đã thực hiện | Theo kết quả thực tế |
+| Bài 1 | Quản lý dịch vụ phòng Gym và hội viên | Đã thực hiện | 100% |
+| Bài 2 | Quản lý và xuất báo cáo nhà sách | Đã thực hiện | 100% |
+| Bài 3 | Hệ thống MDI quản lý bệnh viện và xử lý Async/Await | Đã thực hiện | 100% |
+| Bài 4 | Bảng điều khiển thống kê doanh thu đa luồng | Đã thực hiện | 100% |
+| Bài 5 | Mô phỏng giám sát tỷ giá tài chính thời gian thực | Đã thực hiện | 100% |
 
 ---
 
